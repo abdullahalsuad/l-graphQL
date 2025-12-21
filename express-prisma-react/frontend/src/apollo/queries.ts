@@ -1,8 +1,6 @@
 import { gql } from "@apollo/client";
 
-// ============================================
 // AUTHENTICATION MUTATIONS
-// ============================================
 
 export const REGISTER_MUTATION = gql`
   mutation Register($input: RegisterInput!) {
@@ -30,9 +28,7 @@ export const LOGIN_MUTATION = gql`
   }
 `;
 
-// ============================================
 // USER QUERIES
-// ============================================
 
 export const GET_ME = gql`
   query GetMe {
@@ -45,9 +41,7 @@ export const GET_ME = gql`
   }
 `;
 
-// ============================================
 // TASK QUERIES
-// ============================================
 
 export const GET_MY_TASKS = gql`
   query GetMyTasks {
@@ -86,9 +80,7 @@ export const GET_TASKS_PAGINATED = gql`
   }
 `;
 
-// ============================================
 // TASK MUTATIONS
-// ============================================
 
 export const CREATE_TASK_MUTATION = gql`
   mutation CreateTask($input: CreateTaskInput!) {
