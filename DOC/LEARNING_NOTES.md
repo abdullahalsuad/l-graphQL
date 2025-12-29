@@ -1,4 +1,4 @@
-# 📚 GraphQL Learning Notes - Complete Guide
+# GraphQL Learning Notes - Complete Guide
 
 ## Table of Contents
 

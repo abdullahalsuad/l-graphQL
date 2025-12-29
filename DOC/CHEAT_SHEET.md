@@ -1,6 +1,6 @@
-# 📝 GraphQL Cheat Sheet - Quick Reference
+# GraphQL Cheat Sheet - Quick Reference
 
-## 🔐 Authentication
+## Authentication
 
 ### Register
 
@@ -47,7 +47,7 @@ mutation Login {
 
 ---
 
-## 👤 User Queries
+## User Queries
 
 ### Get Current User
 
@@ -100,7 +100,7 @@ query GetAllUsers {
 
 ---
 
-## ✅ Task Queries
+## Task Queries
 
 ### Get My Tasks
 
@@ -192,7 +192,7 @@ query GetNextPage {
 
 ---
 
-## 📝 Task Mutations
+## Task Mutations
 
 ### Create Task
 
@@ -255,7 +255,7 @@ mutation DeleteTask {
 
 ---
 
-## 🔍 Advanced Query Patterns
+## Advanced Query Patterns
 
 ### Nested Queries
 
@@ -319,7 +319,7 @@ query WithAliases {
 
 ---
 
-## 🎨 Fragments (Code Reuse)
+## Fragments (Code Reuse)
 
 ### Define and Use Fragment
 
@@ -351,7 +351,7 @@ query GetSingleTask {
 
 ---
 
-## 🏃 Quick Test Workflow
+## Quick Test Workflow
 
 ### 1. Register
 
@@ -412,7 +412,7 @@ mutation {
 
 ---
 
-## ⚠️ Error Examples
+## Error Examples
 
 ### Authentication Error
 
@@ -494,7 +494,7 @@ mutation {
 
 ---
 
-## 🛠 Useful Apollo Sandbox Features
+## Useful Apollo Sandbox Features
 
 ### Keyboard Shortcuts
 
@@ -519,7 +519,7 @@ mutation {
 
 ---
 
-## 📊 Schema Introspection
+## Schema Introspection
 
 ### Get Schema Types
 
@@ -567,7 +567,7 @@ query GetTypeDetails {
 
 ---
 
-## 💡 Pro Tips
+## Pro Tips
 
 ### 1. Always Name Your Operations
 
@@ -640,7 +640,7 @@ query {
 
 ---
 
-## 🎯 Common Patterns
+## Common Patterns
 
 ### Create and Refetch
 

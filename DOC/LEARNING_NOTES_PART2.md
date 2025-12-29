@@ -1,4 +1,4 @@
-# 📚 GraphQL Learning Notes - Part 2 (Topics 11-20)
+# GraphQL Learning Notes - Part 2 (Topics 11-20)
 
 ## 11. Pagination
 
